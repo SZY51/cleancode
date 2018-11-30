@@ -1,5 +1,5 @@
 
-package com.szilassy.eu.java.linkedlist ;
+package szilassy.eu.java.linkedlist ;
 
 import java.util.* ;
 
